@@ -12,6 +12,7 @@ We are doomed.
 ```bash
 doomed
 ```
+![Hehehe](https://avatars.githubusercontent.com/u/34322869?v=4)
 
 WHY IS THIS SO CRUCIAL?
 i don't
